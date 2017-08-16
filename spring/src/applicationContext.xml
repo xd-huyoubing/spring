@@ -28,6 +28,5 @@
 	<tx:annotation-driven/>
 
 
-<!-- <bean id="userService" class="xidian.edu.spring.benas.UserServiceImpl" /> -->
 	
 </beans>
