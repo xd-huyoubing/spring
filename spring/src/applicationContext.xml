@@ -25,4 +25,6 @@
 		</aop:aspect>
 	</aop:config>
 	
+	<tx:annotation-driven/>
+	
 </beans>
